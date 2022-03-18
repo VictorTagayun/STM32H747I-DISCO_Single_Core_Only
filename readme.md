@@ -2,7 +2,7 @@
 
 ## Introduction and Purpose
 
-** How to disable 
+** How to disable STM32H747I M4 code and run ony M7 core.   
 ** STM32H747I is a Dual core Cortex-M7 and Cortex-M4 MCU.  
 ** The STM32H747I-DISCO Discovery kit is a complete demonstration and development platform for STMicroelectronics STM32H747XIH6 microcontroller, designed to simplify user application development.   
 ** Use CubeMX to init all peripherals  
