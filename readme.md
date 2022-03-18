@@ -13,4 +13,8 @@
 Reset all pins and setup the GPIOs on LED   
 In main.c of M7, comment out all the codes under Boot_Mode_Sequence_1 and Boot_Mode_Sequence_2  
 
+https://github.com/VictorTagayun/STM32H747I-DISCO_Single_Core_Only/blob/694da5be8427cd47b99b376b3ea9ae12e60b4f18/STM32H747I-DISCO_SingleCore/CM7/Core/Src/main.c#L83
+https://github.com/VictorTagayun/STM32H747I-DISCO_Single_Core_Only/blob/694da5be8427cd47b99b376b3ea9ae12e60b4f18/STM32H747I-DISCO_SingleCore/CM7/Core/Src/main.c#L103
+
+
 That's it! M4 will be in sleep mode!
